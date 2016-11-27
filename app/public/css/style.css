@@ -1,0 +1,55 @@
+html, body {
+    height:100%;
+    font-family: 'Amatic SC',cursive;
+}
+
+.jumbotron {
+    background-color: #cd890a;
+    color: #fff;
+    margin-bottom: 0;
+    padding-bottom: 10px;
+}
+
+.container {
+    background-color: #cd890a;
+}
+
+#homepage {
+    background-color: #cd890a;
+    height:100%;
+}
+
+#homepagefooter {
+    position:fixed;
+    bottom:0;
+}
+
+.glyphicon-user {
+    margin: 2px;
+    font-size: 130px;
+}
+
+a {
+    color: white;
+    font-size: 15px;
+}
+
+.form-group {
+    width: 60%;
+    margin: auto;
+}
+
+.form-control{
+    font-size: 30px;
+}
+
+button, input, select, textarea {
+    border: solid;
+}
+
+.modal-header, .modal-footer {
+    background-color: #cd890a;
+}
+
+
+

@@ -1,14 +1,8 @@
 {
-  "name": "node-express-web-server",
+  "name": "friend-finder-app",
   "version": "1.0.0",
-  "description": "friend finder application",
+  "description": "node-express-server",
   "main": "server.js",
-  "dependencies": {
-    "body-parser": "^1.15.2",
-    "express": "^4.14.0",
-    "path": "^0.12.7"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -22,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/NBDelpino1/Node-Express-Web-Server-Friend-Finder/issues"
   },
-  "homepage": "https://github.com/NBDelpino1/Node-Express-Web-Server-Friend-Finder#readme"
+  "homepage": "https://github.com/NBDelpino1/Node-Express-Web-Server-Friend-Finder#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "path": "^0.12.7"
+  }
 }

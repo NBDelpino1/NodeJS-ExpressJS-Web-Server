@@ -1,0 +1,22 @@
+{
+  "name": "node-express-web-server",
+  "version": "1.0.0",
+  "description": "friend finder application",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NBDelpino1/Node-Express-Web-Server-Friend-Finder.git"
+  },
+  "author": "Nicholas Delpino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NBDelpino1/Node-Express-Web-Server-Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/NBDelpino1/Node-Express-Web-Server-Friend-Finder#readme"
+}

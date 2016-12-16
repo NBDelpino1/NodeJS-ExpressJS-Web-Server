@@ -1,5 +1,3 @@
-#Week of 13 HW: Friend Finder - Node and Express Servers
-
 ### Overview
 
 In this activity, you'll build a compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site will take in results your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match. 
@@ -71,16 +69,7 @@ You will use Express to handle routing. Make sure you deploy your app to Heroku 
 	* Remember to use the absolute value of the differences. Put another way: no negative solutions! Your app should calculate both `5-3` and `3-5` as `2`, and so on. 
 	* The closest match will be the user with the least amount of difference.
 
-* Once you've found the current user's most compatible friend, display the result as a modal pop-up.
-	* The modal should display both the name and picture of the closest match. 
 
--------
-### One More Thing
-If you have any questions about this project or about the material we covered, the instructor and your TAs are only a Slack message away.
 
-**Good Luck!**
-
-## Copyright
-Coding Boot Camp (C) 2016. All Rights Reserved.
 
 
